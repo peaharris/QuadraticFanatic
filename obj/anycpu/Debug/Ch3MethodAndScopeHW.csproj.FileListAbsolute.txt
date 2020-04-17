@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/Ch3MethodAndScopeHW/bin/Debug/Ch3MethodAndScopeHW.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/Ch3MethodAndScopeHW/bin/Debug/Ch3MethodAndScopeHW.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/Ch3MethodAndScopeHW/obj/anycpu/Debug/Ch3MethodAndScopeHW.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/Ch3MethodAndScopeHW/obj/anycpu/Debug/Ch3MethodAndScopeHW.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/Ch3MethodAndScopeHW/obj/anycpu/Debug/Ch3MethodAndScopeHW.pdb
