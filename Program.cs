@@ -4,6 +4,12 @@ namespace Quadratic
 {
     class Program
     {
+        //Refactor the Quadratic Equation(Quadratic Formula) into a method.
+        //Start with the code below which computes the two solutions to the Quadratic Equation.Refactor this code into two
+        //new methods - both called from Main(). The first method will prompt for "a", "b", and "c" and return those three
+        //values to the caller as three doubles.The second method will take three doubles as parameters (a, b, and c),
+        //compute the two solutions to the quadratic formula, and return both solutions to the caller as two doubles.
+
         public static void Main(string[] args)
         {
             Console.WriteLine("Quadratic Equation");
